@@ -26,6 +26,8 @@
         <webjars-locator.version>0.30</webjars-locator.version>
         
         
+		<sonar.organization>samar-b</sonar.organization>
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
         
         
         
@@ -111,6 +113,8 @@
 			    <artifactId>bootstrap</artifactId>
 			    <version>4.0.0-2</version>
 			</dependency>
+		
+		
 			
 
 			            
