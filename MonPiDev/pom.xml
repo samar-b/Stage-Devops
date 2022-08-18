@@ -25,9 +25,16 @@
 		<bootstrap.version>4.0.0-2</bootstrap.version>
         <webjars-locator.version>0.30</webjars-locator.version>
         
+		<property>
+        
+
+  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+		</property>
+		<property>
         
 		<sonar.organization>samar-b</sonar.organization>
-  		<sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  	
+		</property>
         
         
         
